@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace CSExercises
 {
-    public class Ex03
+    public class Ex06
     {
         public static void Main(string[] args)
         {
-            
+            System.Console.WriteLine(" what is your Name");
+
         }
     }
 }
